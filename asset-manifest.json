@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.7a93f8ff.chunk.css",
-    "main.js": "./static/js/main.eac60791.chunk.js",
-    "main.js.map": "./static/js/main.eac60791.chunk.js.map",
+    "main.css": "./static/css/main.967ad2f8.chunk.css",
+    "main.js": "./static/js/main.93600803.chunk.js",
+    "main.js.map": "./static/js/main.93600803.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.f99d5775.js",
     "runtime-main.js.map": "./static/js/runtime-main.f99d5775.js.map",
     "static/js/2.a2770ea5.chunk.js": "./static/js/2.a2770ea5.chunk.js",
     "static/js/2.a2770ea5.chunk.js.map": "./static/js/2.a2770ea5.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.7a93f8ff.chunk.css.map": "./static/css/main.7a93f8ff.chunk.css.map",
+    "static/css/main.967ad2f8.chunk.css.map": "./static/css/main.967ad2f8.chunk.css.map",
     "static/js/2.a2770ea5.chunk.js.LICENSE.txt": "./static/js/2.a2770ea5.chunk.js.LICENSE.txt",
     "static/media/main.scss": "./static/media/nat-7.167e44e4.jpg",
     "static/media/icon-font.css": "./static/media/linea-basic-10.a5a02e7f.svg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.f99d5775.js",
     "static/js/2.a2770ea5.chunk.js",
-    "static/css/main.7a93f8ff.chunk.css",
-    "static/js/main.eac60791.chunk.js"
+    "static/css/main.967ad2f8.chunk.css",
+    "static/js/main.93600803.chunk.js"
   ]
 }
